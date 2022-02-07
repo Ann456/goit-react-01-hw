@@ -1,0 +1,28 @@
+.table {
+  width: 300px;
+  margin: 0;
+  padding: 0;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.head {
+  background-color: #92c5de;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+
+.titles {
+  padding: 10px;
+  width: 100px;
+}
+
+.body {
+  background-color: #f0f0f0;
+  font-size: 10px;
+}
+
+.items {
+  padding: 8px;
+}
